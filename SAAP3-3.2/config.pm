@@ -28,7 +28,7 @@ $pdbExt              = ".ent";
 
 # Location for storing the cached results from SAAP analysis
 # Put this wherever you want with lots of space!
-$cacheDir            = "/its/home/bh358/Mcka/saap-instaillation/cache";
+$cacheDir            = "/its/home/bh358/SAAP_Data/opt/cache";
 
 # Use local or web services for SwissProt
 #$LocalSwissProt=1;     # Use local version of SwissProt
